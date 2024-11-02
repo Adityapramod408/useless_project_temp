@@ -1,30 +1,30 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [what's you superpower?!] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [innovateX]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Neha V] - [St josephs college,devagiri]
+- Member 2: [Aditya P] - [St josephs college,devagiri]
+- Member 3: [Liya faizal] - [St josephs college,devagiri]
 
 ### Project Description
-[2-3 lines about what your project does]
+[if you give your name and star sign , it will assign certain useless superpower]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[find our hidden useless superpower]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[we generate their hidden superpowers based on their star sign]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,css,javascript]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -46,7 +46,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -87,7 +87,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- [Aditya p]: [java script]
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
 
